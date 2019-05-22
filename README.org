@@ -1,0 +1,5 @@
+Trying out Latex in org mode.
+
+\begin{equation}
+x=\sqrt{b}
+\end{equation}
