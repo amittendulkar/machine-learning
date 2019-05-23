@@ -3,3 +3,5 @@ Trying out Latex in org mode.
 \begin{equation}
 x=\sqrt{b}
 \end{equation}
+
+The formula \(a^2 + b^2 = c^2\) has been discovered by Pythagoras.
